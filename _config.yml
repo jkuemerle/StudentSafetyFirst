@@ -1,3 +1,4 @@
 name: Student Safety First Slate
 title: null
 markdown: kramdown
+theme: jekyll-theme-dinky
