@@ -6,3 +6,5 @@ This site is for the Student Safery First slate of school board candidates for t
 * E.K. Guyre
 * John Johnson
 * Meg Rosenfeld (write in)
+
+![picture of ballot](images/ssfvote.png)
