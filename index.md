@@ -20,10 +20,7 @@ or
 
 ### Donate
 
-ActBlue donations coming soon!
-
-Donate via PayPal: [![Donate with Paypal](https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_100x26.png)](https://www.paypal.com/donate/?business=studentsafetyfirstslate@gmail.com&no_recurring=0&item_name=To+support+the+Student+Safety+First+Slate+for+DV+School+Board+&currency_code=USD&fbclid=IwAR2c7oe8yLtCDgqUv6FDtT6hpmaZ0HDOyzDw8URaE2mX7gfjXIjDjec7pJY){:target="_blank"}
-
+Donate via ActBlue: [![Donate with ActBlue](images/actblue-badges-cerulean-300px.png)](https://secure.actblue.com/donate/studentsafetyfirst){:target="_blank"}
 
 or by mail:  
 PO Box 633  
